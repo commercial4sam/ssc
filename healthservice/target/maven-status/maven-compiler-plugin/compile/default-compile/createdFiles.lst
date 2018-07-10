@@ -1,0 +1,7 @@
+com\aks\healthservice\controllers\WelcomeController.class
+com\aks\healthservice\entity\Memberenrollment.class
+com\aks\healthservice\repository\MemeberRepository.class
+com\aks\healthservice\MainApplicationBoot.class
+com\aks\healthservice\controllers\MainController.class
+com\aks\healthservice\controllers\MemberRegistrationController.class
+com\aks\healthservice\dto\RegisterMember.class
