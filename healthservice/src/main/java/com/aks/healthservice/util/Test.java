@@ -1,8 +1,5 @@
 package com.aks.healthservice.util;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
 
 public class Test {
 
@@ -13,8 +10,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 
+		System.out.println("Testing branch checkout --->");
 		
-		
+		System.out.println("Git Checkout switch branch to master");
 		int i=5;
 		System.out.println(++i);
 		
